@@ -1,6 +1,8 @@
-<a href="https://chrome.google.com/webstore/detail/rate-my-wayne-state-profe/ahhodaoeeimnplkpedodcndidpololdg">
-    <img alt="logo" src="images/logo.png" height="99px">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo-light.png" width="99">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo-dark.png" width="99">
+  <img alt="Logo." src="images/logo-dark.png">
+</picture>
 
 # Rate My University Professors
 
