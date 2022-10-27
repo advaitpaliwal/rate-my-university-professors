@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo-light.png" width="99">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo-dark.png" width="99">
-  <img alt="Logo." src="images/logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/logo-dark.png" width="99" >
+  <img alt="Logo." src="images/logo-light.png"  width="99">
 </picture>
 
 # Rate My University Professors
