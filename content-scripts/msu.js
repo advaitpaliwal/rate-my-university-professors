@@ -88,9 +88,14 @@ function changePage() {
       }
       const textElement = target[i].textContent.trim();
       if (
-        ["Open", "Closed", "To Be Announced", "Reserved Capacity"].includes(
-          textElement
-        ) ||
+        [
+          "Open",
+          "Closed",
+          "To Be Announced",
+          "Reserved Capacity",
+          "Cross Listed",
+          "Wait List",
+        ].includes(textElement) ||
         textElement.indexOf("/") > -1
       ) {
         continue;
