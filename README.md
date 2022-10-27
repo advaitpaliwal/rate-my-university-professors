@@ -1,3 +1,4 @@
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/logo-light.png" width="99">
   <source media="(prefers-color-scheme: light)" srcset="images/logo-dark.png" width="99" >
