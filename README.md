@@ -1,8 +1,8 @@
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/logo-light.png" width="99">
-  <source media="(prefers-color-scheme: light)" srcset="images/logo-dark.png" width="99" >
-  <img alt="Logo." src="images/logo-light.png"  width="99">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66044327/198452747-583dc39c-ca0c-46be-9b4a-056bbce1ce7c.png" width="99">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66044327/198452785-63ebbc28-5df7-412a-bd1e-5d5b2ee7fa75.png" width="99" >
+  <img alt="Logo." src="https://user-images.githubusercontent.com/66044327/198452747-583dc39c-ca0c-46be-9b4a-056bbce1ce7c.png"  width="99">
 </picture>
 
 # Rate My University Professors
