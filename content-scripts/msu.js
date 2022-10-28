@@ -63,6 +63,7 @@ async function updateProfData(element, fullName) {
   }
   await updateElement(element, data, fullName);
 }
+
 async function checkRatingInPage() {
   if (document.getElementsByClassName("rating").length > 0) {
     return false;
